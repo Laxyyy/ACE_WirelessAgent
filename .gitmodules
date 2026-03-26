@@ -1,0 +1,6 @@
+[submodule "ace"]
+	path = ace
+	url = https://github.com/Laxyyy/ace.git
+[submodule "WirelessAgent_R1"]
+	path = WirelessAgent_R1
+	url = https://github.com/Laxyyy/WirelessAgent_R1.git
